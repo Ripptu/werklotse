@@ -1,0 +1,5 @@
+{
+  "name": "Optimal Factors Clone",
+  "description": "A pixel-perfect recreation of the Optimal Factors website using React, Tailwind CSS, and Framer Motion for smooth animations.",
+  "requestFramePermissions": []
+}
